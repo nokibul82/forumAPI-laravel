@@ -28,7 +28,7 @@ class FeedController extends Controller
         ]);
 
         return Response([
-            'message' => 'success !!!!!',201
+            'message' => 'Feed Posted !',201
         ]);
     }
 
